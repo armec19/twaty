@@ -1,1 +1,1 @@
-web: java -war target/mavenproject4-1.0.war
+web: java -jar target/mavenproject4-1.0.war
